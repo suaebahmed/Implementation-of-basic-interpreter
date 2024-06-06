@@ -1,0 +1,10 @@
+1 LET A = 10
+2 LET B = 1000
+3 LET C = A + 300
+6 IF A < B THEN C = C + 100
+4 PRINT "The sum is ", C
+5 PRINT "I love compiler!!"
+8 PRINT "Compiler works like magic!!"
+9 PRINT "Interpreter compiles the codes line by lline."
+10 PRINT "I love also programming!!"
+11 END
