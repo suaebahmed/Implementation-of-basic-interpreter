@@ -7,7 +7,7 @@ Tokens: [{{"1","LET","A","=","5"},{"2","LET","B","=","10"},{"3","IF","A","<","B"
 ```properties
 g++ -o program Interpreter.cpp
 
-./program
+./program source_code.txt
 ```
 
 
