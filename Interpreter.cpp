@@ -11,6 +11,7 @@
 #include<bits/stdc++.h>
 
 using namespace std;
+
 #ifndef ONLINE_JUDGE
 #include<debug.h>
 #else
