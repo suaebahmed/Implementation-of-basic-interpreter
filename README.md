@@ -4,10 +4,11 @@ Tokens: [{{"1","LET","A","=","5"},{"2","LET","B","=","10"},{"3","IF","A","<","B"
 
 # Compile And Run
 
+```properties
 g++ -o program Interpreter.cpp
 
-./program git push --set-upstream origin main.txt
-
+./program
+```
 
 
 # Input And Output
