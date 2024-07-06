@@ -13,7 +13,7 @@
 using namespace std;
 
 #ifndef ONLINE_JUDGE
-#include<debug.h>
+#include "debug.h"
 #else
 #define dbg(x...)
 #endif
@@ -29,8 +29,8 @@ class Nonexistentvariable{};
 
 #include "Base.h"
 #include "Let.h"
-#include "GOTO.h"
-#include "IF.h"
+#include "Goto.h"
+#include "If.h"
 #include "Print.cpp"
 
 //MAIN PROGRAM CLASS
